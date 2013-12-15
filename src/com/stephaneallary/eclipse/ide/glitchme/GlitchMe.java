@@ -8,9 +8,12 @@ import java.awt.Rectangle;
 
 public class GlitchMe extends PApplet {
 
-	/**
-	 * 
-	 */
+	// Variables //
+	Capture cam;
+	OpenCV opencv;
+	Rectangle[] faces;
+	PImage capture;
+	
 	private static final long serialVersionUID = 1L;
 
 	public static void main(String[] args) {
