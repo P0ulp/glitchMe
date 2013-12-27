@@ -2,8 +2,10 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/processing-core"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/processing-opencv"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/processing-video"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/processing-core-2.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/processing-opencv-4.3beta"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/processing-video-2.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/commons-net-3.3"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/processing-minim-2.1"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
