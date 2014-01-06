@@ -20,8 +20,8 @@ public class PoulpCodec {
 		 this.setPImage(pixels, width, height);
 	 }
 	 
-	 public PoulpCodec(String pathFile){
-	  this.loadp0(pathFile);
+	 public PoulpCodec(String path){
+	  this.loadp0(path);
 	 }
 	 
 	 public void setPImage(int[] pixels, int width, int height){
